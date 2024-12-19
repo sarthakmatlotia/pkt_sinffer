@@ -1,0 +1,100 @@
+Source IP: 170.72.239.181
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 1297
+
+Source IP: 192.168.252.53
+Destination IP: 170.72.239.181
+Source Port: 1297
+Destination Port: 443
+
+Source IP: 192.168.252.53
+Destination IP: 170.72.239.181
+Source Port: 1297
+Destination Port: 443
+
+Source IP: 192.168.252.53
+Destination IP: 13.107.246.48
+Source Port: 2875
+Destination Port: 443
+
+Source IP: 170.72.239.181
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 1297
+
+Source IP: 170.72.239.181
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 1297
+
+Source IP: 170.72.239.181
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 1297
+
+Source IP: 192.168.252.53
+Destination IP: 170.72.239.181
+Source Port: 1297
+Destination Port: 443
+
+Source IP: 192.168.252.53
+Destination IP: 13.107.246.48
+Source Port: 2875
+Destination Port: 443
+
+Source IP: 13.107.246.48
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 2875
+
+Source IP: 13.107.246.48
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 2875
+
+Source IP: 170.72.239.181
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 1297
+
+Source IP: 140.82.112.26
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 2636
+
+Source IP: 13.107.246.48
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 2875
+
+Source IP: 192.168.252.53
+Destination IP: 13.107.246.48
+Source Port: 2875
+Destination Port: 443
+
+Source IP: 192.168.252.53
+Destination IP: 13.107.246.48
+Source Port: 2875
+Destination Port: 443
+
+Source IP: 192.168.252.53
+Destination IP: 140.82.112.26
+Source Port: 2636
+Destination Port: 443
+
+Source IP: 13.107.246.48
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 2875
+
+Source IP: 140.82.112.26
+Destination IP: 192.168.252.53
+Source Port: 443
+Destination Port: 2636
+
+Source IP: 192.168.252.53
+Destination IP: 34.192.102.181
+Source Port: 2489
+Destination Port: 443
+

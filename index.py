@@ -29,6 +29,10 @@ def packet_callback(packet):
     packet_display.insert(tk.END, display_text)
     packet_display.yview(tk.END)  # Scroll to the bottom
 
+    # Log the packet data to a file
+    with open("packet_log.txt", "a") as log_file:
+        log_file.write(display_text)
+
 # Function to start sniffing in a separate thread to avoid blocking the GUI
 def start_sniffing():
     sniff(prn=packet_callback, store=0, filter="tcp", count=0)
@@ -51,4 +55,4 @@ clear_button = tk.Button(root, text="Clear Display", command=clear_display)
 clear_button.pack(pady=10)
 
 # Run the GUI
-root.mainloop() 
+root.mainloop()
